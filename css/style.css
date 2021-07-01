@@ -1,3 +1,33 @@
+header
+{
+    background-color: #afeeee;
+}
+h1
+{
+    padding: 50px ;
+    margin-top: 10px;
+    text-align: center;
+    color: #0000cd;
+    text-transform:uppercase;
+    text-decoration: underline;
+}
+ul 
+{
+  list-style: none;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 #ligne
 {
     color: brown;
